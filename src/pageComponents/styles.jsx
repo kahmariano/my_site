@@ -21,6 +21,11 @@ export const Conteudo = styled.div`
   p {
     font-size: 32px;
     line-height: 16px;
+@media(max-width: 500px){font-size: 25px;
+display: flex;
+  align-items: center;
+  justify-content: center;
+}
   }
 `
 
