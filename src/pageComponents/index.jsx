@@ -21,10 +21,6 @@ export function HomePage() {
       <Conteudo>
         <h1>
           Karina Mariano
-          <style>
-            @import
-            url('https://fonts.googleapis.com/css2?family=La+Belle+Aurore&display=swap')
-          </style>
         </h1>
         <p>Atualmente barbeira, me ariscando em programação</p>
       </Conteudo>
